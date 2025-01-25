@@ -3,7 +3,7 @@ from .file_reader import read_grid_from_file
 
 def process_file(filename):
     """
-    Process a file containing a grid and count the connected shapes.
+    Process a file containing a grid and count the amount of connected shapes.
 
     Args:
     filename (str): The name of the file to process.
