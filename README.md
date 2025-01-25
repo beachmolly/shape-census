@@ -12,7 +12,7 @@ In the world of Shape Census, we're dealing with a unique kind of population: sh
 - Identifies shapes formed by adjacent '1's (considering up, down, left, right connections)
 - Counts the total number of distinct shapes in each grid
 - Handles varying grid sizes efficiently
-- Provides clear output of results
+- Provides clear output of the shape results 
 
 ## Project Structure
 
